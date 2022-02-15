@@ -2,7 +2,7 @@
 
 ## Run
 
-Edit the variables in `src/lib.rs` as the comments tell you, then:
+Edit the variables in `cli/index.ts` as the comments tell you, then:
 
 In one terminal:
 
